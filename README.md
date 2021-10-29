@@ -2,8 +2,8 @@
 
 ## Deployment
 
-(url here)
+https://josh2100.github.io/taskmaster-pro/
 
 ## Screenshot
 
-![taskmaster](url here)
+![Taskmaster Pro](./assets/images/screenshot.png)
