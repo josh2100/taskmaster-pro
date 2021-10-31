@@ -158,6 +158,7 @@ $(".list-group").on("blur", "input[type='text']", function () {
   $(this).replaceWith(taskSpan);
 });
 
+// enable draggable/sortable feature
 $(".card .list-group").sortable({
   connectWith: $(".card .list-group"),
   scroll: false,
